@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NS-Store/static/css/main.7a809c31.css",
+    "main.js": "/NS-Store/static/js/main.b1d67469.js",
+    "static/media/About.jpg": "/NS-Store/static/media/About.1e5b985d02215599a25f.jpg",
+    "static/media/hero-image2.jpg": "/NS-Store/static/media/hero-image2.d11dad1b36a161ba44bd.jpg",
+    "static/media/_nsLogo2.jpg": "/NS-Store/static/media/_nsLogo2.c3778c56daca255cebce.jpg",
+    "index.html": "/NS-Store/index.html",
+    "main.7a809c31.css.map": "/NS-Store/static/css/main.7a809c31.css.map",
+    "main.b1d67469.js.map": "/NS-Store/static/js/main.b1d67469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a809c31.css",
+    "static/js/main.b1d67469.js"
+  ]
+}
